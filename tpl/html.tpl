@@ -6,7 +6,7 @@
   <meta name="robots" content="noarchive" />
   <meta name="author" content="EXP: www.exp-blog.com" />
   <link rel="stylesheet" type="text/css" href="./css/page.css" />
-  <title>Threat-Broadcast</title>
+  <title>全网软件更新威胁情报</title>
  </head>
 
  <body class="html">
