@@ -43,29 +43,6 @@
 </details>
 
 
-## 订阅方式
-
-- 【开发者订阅】 可自行 Fork 项目，通过配置定时任务向自己的邮箱推送即可
-- 【个人订阅】 在 <a href="https://github.com/lyy289065406/threat-broadcast/issues/new?title=Your+Email&amp;body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.">Issues</a> 标题留下你的邮箱即可接收播报信息
-- 【个人订阅】 加入 QQ 群： 283212984
-- 【个人订阅】 关注 WeChat 公众号：
-<br/>　　**名称**： EXP技术
-<br/>　　**微信号**： exp-blog
-<br/>![](https://github.com/lyy289065406/threat-broadcast/blob/master/imgs/wechat.png)
-
-
-## 威胁情报推送源
-
-- QQ 群： 283212984
-- WeChat 公众号： [\[名称\]`EXP技术` \[微信号\]`exp-blog`](imgs/wechat.png)
-- 邮箱： 
-<br/>　　ThreatBroadcast@126.com
-<br/>　　threatbroadcast@qq.com
-<br/>　　threatbroadcast@foxmail.com
-
-
-> 认准我的推送源，勿点击来历不明链接，慎防钓鱼
-
 
 
 ## 开发者部署
@@ -154,7 +131,6 @@ threat-broadcast
 　[![Copyright (C) EXP,2016](https://img.shields.io/badge/Copyright%20(C)-EXP%202016-blue.svg)](http://exp-blog.com)　[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 - Site: [http://exp-blog.com](http://exp-blog.com) 
-- Mail: <a href="mailto:289065406@qq.com?subject=[EXP's Github]%20Your%20Question%20（请写下您的疑问）&amp;body=What%20can%20I%20help%20you?%20（需要我提供什么帮助吗？）">289065406@qq.com</a>
 
 
 ------
