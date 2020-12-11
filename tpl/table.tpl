@@ -2,11 +2,11 @@
     <table id="%(src)s" class="dataintable">
      <tbody>
       <tr>
-       <th width="50%%">TITLE</th>
-       <th width="15%%">CVES</th>
-       <th width="20%%">TIME</th>
-       <th width="5%%">URL</th>
-       <th width="10%%">%(src)s [TOP %(top)d]</th>
+       <th width="25%%">%(src)s 情报[TOP %(top)d] | 名称</th>
+       <th width="15%%">漏洞编号</th>
+       <th width="20%%">发布时间</th>
+       <th width="5%%">查看源URL</th>
+       
       </tr>
 %(rows)s
      </tbody>
