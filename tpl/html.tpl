@@ -13,7 +13,7 @@
 
   <div>
    <br />
-   <h2><a href="https://github.com/itiki/threat">全网软件威胁情报播报（系统、软件、中间件、插件等）</a></h2>
+   <h2>全网软件威胁情报播报（系统、软件、中间件、插件等</h2>
    <br />
 
 %(table)s
