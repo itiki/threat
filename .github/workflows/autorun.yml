@@ -1,5 +1,6 @@
 name: Automatically crawl CVEs 
 on:
+  push:
   schedule:
     - cron:  '15 * * * *'
 
