@@ -13,7 +13,7 @@
 
   <div>
    <br />
-   <h2><a href="https://github.com/lyy289065406/threat-broadcast">威胁情报播报</a></h2>
+   <h2><a href="https://github.com/itiki/threat">全网软件威胁情报播报（系统、软件、中间件、插件等）</a></h2>
    <br />
 
 %(table)s
