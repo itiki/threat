@@ -3,8 +3,8 @@
 
 从Threat-Broadcast源作者初版改版中
 # 计划：
-WEB版UI升级借鉴Html5
-小程序版，方便移动手机端查看
+- WEB版UI设计，升级借鉴Html5
+- 小程序版，方便移动手机端查看
 
 ------
 
@@ -53,13 +53,9 @@ WEB版UI升级借鉴Html5
 本项目已配置 [Github Actions](https://docs.github.com/cn/actions/configuring-and-managing-workflows/configuring-a-workflow)，因此你只需轻松几步即可实现部署：
 
 - [Fork 本项目](https://github.com/lyy289065406/threat-broadcast) 到你的代码仓库
-- 通过 Settings --> Secrets 配置用于 **发送** 威胁情报邮件的 3 个环境变量：
-<br/>　　`MAIL_SMTP`： SMTP 服务器（国内推荐 QQ），如 `smtp.qq.com`
-<br/>　　`MAIL_USER`： 邮箱账号，如 `threatbroadcast@qq.com`
-<br/>　　`MAIL_PASS`： 邮箱密码
 - 启用 Settings --> Actions 功能
-
-> 尔后程序便会每小时执行一次，并自动生成 [Github Page](https://lyy289065406.github.io/threat-broadcast/) 播报页面（若要调整执行频率，可修改 [`autorun.yml`](.github/workflows/autorun.yml) 的 `schedule` 触发时点）
+- 修改 Setting --> github page的根目录为docs
+> 尔后程序便会隔一定时间执行一次，并自动生成 [Github Page](https://lyy289065406.github.io/threat-broadcast/) 播报页面（若要调整执行频率，可修改 [`autorun.yml`](.github/workflows/autorun.yml) 的 `schedule` 触发时点）
 
 ![](imgs/secrets.png)
 
