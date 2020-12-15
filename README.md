@@ -33,14 +33,6 @@
 - 【页面播报】 最新的 TOP10 威胁情报会更新到 [Github Page](https://lyy289065406.github.io/threat-broadcast/)
 - 【情报归档】 所有威胁情报会归档到 [sqlite](data/cves.db)
 
-<details>
-<summary>播报效果</summary>
-<br/>
-
-![](https://github.com/lyy289065406/threat-broadcast/blob/master/imgs/email.png)
-
-</details>
-
 
 
 
